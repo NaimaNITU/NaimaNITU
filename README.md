@@ -64,9 +64,7 @@ I have **1 year of hands-on experience** in building full-stack web applications
 
 ## 📊 GitHub Stats
 
-![NaimaNITU's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaimaNITU&show_icons=true&theme=radical&border_radius=12&hide_rank=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaimaNITU&layout=compact&theme=radical&border_radius=12)
+![NaimaNITU's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaimaNITU&show_icons=true&theme=radical&border_radius=12&hide_rank=false)     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaimaNITU&layout=compact&theme=radical&border_radius=12)
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaimaNITU&theme=radical)
 
