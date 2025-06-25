@@ -71,6 +71,4 @@ I have **1 year of hands-on experience** in building full-stack web applications
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=naimanitu&show_icons=true&locale=en" alt="naimanitu" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naimanitu" alt="naimanitu" />
-</p>
+
