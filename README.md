@@ -1,6 +1,6 @@
 https://dribbble.com/shots/23181149-Dunzo-l-Banner-Image
-<h1 align="center">Hi 👋, I'm Naima Uddin Nitu</h1>
-<h3 align="center">A passionate MERN Stack Web Developer from Bangladesh</h3>
+<h1 align="left">Hi 👋, I'm Naima Uddin Nitu</h1>
+<h3 align="left">A passionate MERN Stack Web Developer from Bangladesh</h3>
 
 - 💬 Ask me about **React, Javascript**
 
