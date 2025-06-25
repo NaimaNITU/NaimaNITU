@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/naimanitu/naimanitu/blob/main/image.png" alt="banner" />
+  <img src="https://github.com/naimanitu/naimanitu/blob/main/img.png" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Naima Uddin Nitu</h1>
