@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: I love solving problems and building dynamic, responsive web applications
 
-- 📫 How to reach me: **naimauddinnitu.dev@gmail.com**
+- 📫 How to reach me: **naimauddin23@gmail.com**
 
 ---
 
